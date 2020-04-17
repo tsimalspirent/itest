@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tbml xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.teslaalliance.org/trs/tbml/1.0/tbml-core.xsd" xmlns="http://www.teslaalliance.org/trs/tbml/1.0">
+  <header>
+    <name>new_topology</name>
+    <description></description>
+    <property name="author">TSimal</property>
+    <property name="dateCreated">2020-04-17T18:02:46.519+02:00</property>
+    <property name="notes"/>
+    <property name="dateModified">2020-04-17T18:03:10.768+02:00</property>
+    <property name="creationTool" vendor="com.fnfr">com.fnfr.itest.topology.tbml.diagram</property>
+    <property name="creationToolVersion" vendor="com.fnfr">8.1.0.201911080855</property>
+  </header>
+  <body>
+    <resources>
+      <resource guid="7374dd54-6572-4179-b9a7-e183cc000493" id="resource_0" type="modem">
+        <boundary height="100" width="100" x="126" y="91"/>
+        <property name="iconURI">platform:/plugin/com.fnfr.itest.topology.tbml.edit/icons/full/topology/Modem_32.gif</property>
+        <property name="name">modem1</property>
+        <property name="inventoryName"></property>
+      </resource>
+      <resource guid="2ad350f9-89a7-4678-b63e-ebc1e3ba64fe" id="resource_1" type="storage">
+        <boundary height="100" width="100" x="259" y="98"/>
+        <property name="iconURI">platform:/plugin/com.fnfr.itest.topology.tbml.edit/icons/full/topology/Storage-Dev_32.gif</property>
+        <property name="name">storage1</property>
+        <property name="inventoryName"></property>
+      </resource>
+    </resources>
+    <connectivity/>
+  </body>
+  <illustration>
+    <layer/>
+  </illustration>
+</tbml>

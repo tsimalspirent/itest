@@ -5,10 +5,20 @@
     <description></description>
     <property name="author">TSimal</property>
     <property name="dateCreated">2020-04-20T14:37:44.183+02:00</property>
-    <property name="notes"></property>
+    <property name="notes"/>
+    <property name="dateModified">2020-04-20T14:41:56.734+02:00</property>
+    <property name="creationTool" vendor="com.fnfr">com.fnfr.itest.topology.tbml.diagram</property>
+    <property name="creationToolVersion" vendor="com.fnfr">8.1.0.201911080855</property>
   </header>
   <body>
-    <resources/>
+    <resources>
+      <resource guid="0e249569-5f3e-401a-abe1-414fcbc0cc66" id="resource_0" type="modem">
+        <boundary height="100" width="100" x="896" y="461"/>
+        <property name="iconURI">platform:/plugin/com.fnfr.itest.topology.tbml.edit/icons/full/topology/Modem_32.gif</property>
+        <property name="name">modem1</property>
+        <property name="inventoryName"></property>
+      </resource>
+    </resources>
     <connectivity/>
   </body>
   <illustration>

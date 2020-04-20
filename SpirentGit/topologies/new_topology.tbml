@@ -6,7 +6,7 @@
     <property name="author">TSimal</property>
     <property name="dateCreated">2020-04-17T18:02:46.519+02:00</property>
     <property name="notes"/>
-    <property name="dateModified">2020-04-20T11:59:49.225+02:00</property>
+    <property name="dateModified">2020-04-20T12:33:19.178+02:00</property>
     <property name="creationTool" vendor="com.fnfr">com.fnfr.itest.topology.tbml.diagram</property>
     <property name="creationToolVersion" vendor="com.fnfr">8.1.0.201911080855</property>
   </header>
@@ -28,12 +28,18 @@
         <boundary height="100" width="100" x="677" y="448"/>
         <property name="iconURI">platform:/plugin/com.fnfr.itest.topology.tbml.edit/icons/full/topology/cloud_32.gif</property>
         <property name="name">network1</property>
-        <property name="inventoryName"></property>
+        <property name="inventoryName"/>
       </resource>
       <resource guid="7c24a32b-b198-4b1c-8716-0b76d00fa72b" id="resource_3" type="network">
         <boundary height="100" width="100" x="993" y="270"/>
         <property name="iconURI">platform:/plugin/com.fnfr.itest.topology.tbml.edit/icons/full/topology/cloud_32.gif</property>
         <property name="name">network2</property>
+        <property name="inventoryName"/>
+      </resource>
+      <resource guid="59596631-e45d-41b5-8282-a00c807ea3aa" id="resource_4" type="modem">
+        <boundary height="100" width="100" x="1356" y="563"/>
+        <property name="iconURI">platform:/plugin/com.fnfr.itest.topology.tbml.edit/icons/full/topology/Modem_32.gif</property>
+        <property name="name">modem2</property>
         <property name="inventoryName"></property>
       </resource>
     </resources>

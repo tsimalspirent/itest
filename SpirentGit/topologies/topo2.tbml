@@ -6,7 +6,7 @@
     <property name="author">TSimal</property>
     <property name="dateCreated">2020-04-20T12:10:29.262+02:00</property>
     <property name="notes"/>
-    <property name="dateModified">2020-04-20T12:15:46.478+02:00</property>
+    <property name="dateModified">2020-04-21T14:27:22.110+02:00</property>
     <property name="creationTool" vendor="com.fnfr">com.fnfr.itest.topology.tbml.diagram</property>
     <property name="creationToolVersion" vendor="com.fnfr">8.1.0.201911080855</property>
   </header>
@@ -16,19 +16,13 @@
         <boundary height="100" width="100" x="975" y="377"/>
         <property name="iconURI">platform:/plugin/com.fnfr.itest.topology.tbml.edit/icons/full/topology/handset_32.gif</property>
         <property name="name">handset1</property>
-        <property name="inventoryName"></property>
+        <property name="inventoryName"/>
       </resource>
       <resource guid="312b832e-ed45-4d7d-8259-092857729cf2" id="resource_1" type="">
         <boundary height="100" width="100" x="994" y="658"/>
         <property name="iconURI">platform:/plugin/com.fnfr.itest.topology.tbml.edit/icons/full/topology/Device_generic_32.gif</property>
         <property name="name">resource1</property>
-        <property name="inventoryName"></property>
-      </resource>
-      <resource guid="307ba259-baa2-4fe2-b350-ae873bcec567" id="resource_2" type="network">
-        <boundary height="100" width="100" x="930" y="543"/>
-        <property name="iconURI">platform:/plugin/com.fnfr.itest.topology.tbml.edit/icons/full/topology/cloud_32.gif</property>
-        <property name="name">network1</property>
-        <property name="inventoryName"></property>
+        <property name="inventoryName"/>
       </resource>
     </resources>
     <connectivity/>

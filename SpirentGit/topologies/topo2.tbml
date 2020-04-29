@@ -6,7 +6,7 @@
     <property name="author">TSimal</property>
     <property name="dateCreated">2020-04-20T12:10:29.262+02:00</property>
     <property name="notes"/>
-    <property name="dateModified">2020-04-29T16:11:14.973+02:00</property>
+    <property name="dateModified">2020-04-29T16:12:08.944+02:00</property>
     <property name="creationTool" vendor="com.fnfr">com.fnfr.itest.topology.tbml.diagram</property>
     <property name="creationToolVersion" vendor="com.fnfr">8.2.0.202003130611</property>
   </header>
@@ -28,6 +28,12 @@
         <boundary height="100" width="100" x="1447" y="518"/>
         <property name="iconURI">platform:/plugin/com.fnfr.itest.topology.tbml.edit/icons/full/topology/handset_32.gif</property>
         <property name="name">handset2</property>
+        <property name="inventoryName"></property>
+      </resource>
+      <resource guid="17c275c5-4210-45f7-b45c-590021b8ab32" id="resource_3" type="">
+        <boundary height="100" width="100" x="1381" y="178"/>
+        <property name="iconURI">platform:/plugin/com.fnfr.itest.topology.tbml.edit/icons/full/topology/Device_generic_32.gif</property>
+        <property name="name">resource2</property>
         <property name="inventoryName"></property>
       </resource>
     </resources>

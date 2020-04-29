@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tbml xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.teslaalliance.org/trs/tbml/1.0/tbml-core.xsd" xmlns="http://www.teslaalliance.org/trs/tbml/1.0">
+  <header>
+    <name>new_topology2</name>
+    <description></description>
+    <property name="author">TSimal</property>
+    <property name="dateCreated">2020-04-29T16:12:43.247+02:00</property>
+    <property name="notes"/>
+    <property name="dateModified">2020-04-29T16:12:53.540+02:00</property>
+    <property name="creationTool" vendor="com.fnfr">com.fnfr.itest.topology.tbml.diagram</property>
+    <property name="creationToolVersion" vendor="com.fnfr">8.2.0.202003130611</property>
+  </header>
+  <body>
+    <resources>
+      <resource guid="96d7cbff-6d22-4e68-8b00-63a8cba34e5b" id="resource_0" type="gateway">
+        <boundary height="100" width="100" x="1335" y="406"/>
+        <property name="iconURI">platform:/plugin/com.fnfr.itest.topology.tbml.edit/icons/full/topology/Gateway_32.gif</property>
+        <property name="name">gateway1</property>
+        <property name="inventoryName"></property>
+      </resource>
+    </resources>
+    <connectivity/>
+  </body>
+  <illustration>
+    <layer/>
+  </illustration>
+</tbml>
